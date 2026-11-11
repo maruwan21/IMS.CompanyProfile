@@ -1,0 +1,19 @@
+{
+  "rows": [
+    { "kicker": "01 · Drilling machines", "title": "Core, diamond & rotary rigs", "text": "We design and manufacture core, diamond, and rotary drilling machines built for precision and durability. Each unit is developed to perform efficiently in various geological conditions, for exploration and mining operations.", "image": "workshop", "imageAlt": "A yellow core drilling rig in the Indorig workshop", "objectPosition": "center 35%", "reverse": false },
+    { "kicker": "02 · Tools & spare parts", "title": "Fast availability, less downtime", "text": "Our extensive inventory ensures fast availability and replacement, reducing downtime and maintaining operational efficiency. We also manufacture and modify gearboxes to improve power transmission and fit various rig configurations.", "image": "svc-parts", "imageAlt": "Red drilling spare parts", "objectPosition": "center 30%", "reverse": true },
+    { "kicker": "03 · Maintenance & after sales", "title": "Peak performance, every machine", "text": "Our dedicated technical team offers maintenance, calibration, and repair services, ensuring every machine operates at peak performance. We prioritize customer satisfaction through responsive support and expert care.", "image": "svc-support", "imageAlt": "Technicians inspecting a rig", "objectPosition": "center 55%", "reverse": false },
+    { "kicker": "04 · Custom engineering", "title": "Custom-built for your terrain", "text": "Every project has unique challenges. We offer custom-built machines and tailored modifications to meet specific depth, material, or terrain requirements, working closely with clients from design to delivery.", "image": "svc-custom", "imageAlt": "Custom built rig on a transport truck", "reverse": true }
+  ],
+  "parts": {
+    "titleLead": "We create ",
+    "titleAccent": "our own parts.",
+    "text": "Gears, shafts, and gearboxes are made and modified in-house to fit your rig configuration.",
+    "images": [
+      { "image": "part-gears", "alt": "Machined gears" },
+      { "image": "part-shaft", "alt": "Gear shaft assembly" },
+      { "image": "part-gears2", "alt": "Gears and splined shafts" },
+      { "image": "part-red", "alt": "Red machined drilling component" }
+    ]
+  }
+}

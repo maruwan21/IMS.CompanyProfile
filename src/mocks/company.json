@@ -1,0 +1,52 @@
+{
+  "name": "PT Indorig Mitra Sejati",
+  "brand": { "main": "Indorig", "sub": "Mitra Sejati" },
+  "tagline": "One stop shopping for core drilling machine & equipment. Based in Indonesia.",
+  "hero": {
+    "tag": "Core drilling equipment · Since 2019",
+    "titleLead": "Your solution ",
+    "titleAccent": "beneath the ground.",
+    "lead": "We build, modify and support core drilling rigs for mineral exploration, mining and geothermal, from our base in Cikarang, Bekasi."
+  },
+  "about": {
+    "tag": "Company overview",
+    "titleLead": "Driven by vision, ",
+    "titleAccent": "built from the field.",
+    "vision": "“To engineer the future through relentless innovation and uncompromising drilling solutions.”",
+    "lead": "Founded in 2019, Indorig Mitra Sejati is a trusted supplier in the drilling industry, specializing in core drilling solutions for mineral exploration, including gold, tin, and other valuable resources. One stop shopping for core drilling machine & equipment.",
+    "bmsl": [
+      { "title": "Build", "text": "Manufacturing highly durable drilling machines for extreme conditions." },
+      { "title": "Modify", "text": "Providing adaptive, custom engineering tailored to client specifications." },
+      { "title": "Support", "text": "Delivering reliable after-sales maintenance to guarantee zero downtime." }
+    ],
+    "facts": [
+      { "value": "2019", "label": "Year founded" },
+      { "value": "30+", "label": "Years of founder experience" },
+      { "value": "6", "label": "Rigs in our portfolio" },
+      { "value": "10", "label": "Drilling clients" }
+    ]
+  },
+  "founder": {
+    "tag": "Founder",
+    "titleLead": "From field experience to ",
+    "titleAccent": "engineering excellence.",
+    "image": "founder",
+    "imageAlt": "Sugeng Prio Darminto, founder of Indorig Mitra Sejati",
+    "lead": "We don't just manufacture equipment. We engineer solutions built from a driller's perspective. Our founder brings over 30 years of national and international technical experience in the drilling industry, across Indonesia, Southeast Asia, and Africa.",
+    "points": [
+      { "title": "30+ years of field operations", "text": "Hands-on mechanical maintenance, drilling operations, and technical problem-solving in demanding environments." },
+      { "title": "Industry veteran", "text": "Pelsart Group of Companies, Coredrill IndoAsia, Radial Drilling, Stanley Mining Services, and PT Indodrill Indonesia." },
+      { "title": "Technical mastery", "text": "Hydraulics, Diamond & RC drilling, mud pump systems, heavy equipment maintenance, commissioning, and troubleshooting." }
+    ],
+    "name": "Sugeng Prio Darminto (Ciko)",
+    "role": "Founder, PT Indorig Mitra Sejati"
+  },
+  "sections": {
+    "expertise": { "tag": "Our expertise", "titleLead": "Area of ", "titleAccent": "specialization", "note": "Six disciplines that cover a drill rig from first design to long-term upkeep." },
+    "services": { "tag": "Products & services", "titleLead": "Everything a ", "titleAccent": "drill site", "titleTail": " needs" },
+    "rigs": { "tag": "Project portfolio", "titleLead": "Rigs we ", "titleAccent": "have built", "note": "Depth capacity is listed for NQ / HQ / PQ core sizes." },
+    "clients": { "tag": "Our clients", "titleLead": "Trusted by ", "titleAccent": "drilling contractors" },
+    "contact": { "tag": "Contact", "titleLead": "Let's plan ", "titleAccent": "your next rig.", "lead": "Tell us your depth, material, and terrain. Our engineers will recommend the right rig or build one for you." }
+  },
+  "copyright": "© 2026 PT Indorig Mitra Sejati. All rights reserved."
+}

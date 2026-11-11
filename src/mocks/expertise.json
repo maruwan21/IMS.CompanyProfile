@@ -1,0 +1,8 @@
+[
+  { "no": "01", "icon": "target", "title": "Drilling Specialization", "text": "Designing and manufacturing core, diamond, and rotary drilling machines from the ground up." },
+  { "no": "02", "icon": "mountain", "title": "Sector Expertise", "text": "High-performance drilling machines for the mining, geothermal, and exploration industries." },
+  { "no": "03", "icon": "gear", "turn": true, "title": "Drilling Spare Parts", "text": "Authorized supplier of quality drilling rigs, spare parts, and accessories from trusted global brands." },
+  { "no": "04", "icon": "wrench", "title": "After Sales Services", "text": "Professional maintenance, calibration, and repair to extend the lifespan of your drilling machines." },
+  { "no": "05", "icon": "sliders", "title": "Custom & Modification", "text": "Equipment customized to client specifications, adapting to terrain, depth, and material conditions." },
+  { "no": "06", "icon": "headset", "title": "Technical Consultation", "text": "On-site technical support and operational guidance from experienced engineers." }
+]

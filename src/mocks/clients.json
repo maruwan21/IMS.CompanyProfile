@@ -1,0 +1,11 @@
+[
+  { "image": "c-major", "name": "Major Drilling" },
+  { "image": "c-indodrill", "name": "Indodrill" },
+  { "image": "c-valentis", "name": "Valentis" },
+  { "image": "c-boart", "name": "Boart Longyear" },
+  { "image": "c-maxidrill", "name": "Maxidrill" },
+  { "image": "c-gms", "name": "Global Mining Services" },
+  { "image": "c-idp", "name": "Inter Delta Persada" },
+  { "image": "c-ksk", "name": "Kalimantan Surya Kencana" },
+  { "image": "c-global", "name": "Client logo: gold globe and gear emblem" }
+]

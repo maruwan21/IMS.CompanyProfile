@@ -1,0 +1,14 @@
+[
+  { "name": "IMS 1800", "clientLabel": "Client", "clients": "Minera Nusa Drillindo", "image": "rig-1800", "imageAlt": "IMS 1800 drilling rigs on site", "objectPosition": "top",
+    "specs": [["Depth NQ / HQ / PQ", "1,800 / 1,000 / 500 m"], ["Torque", "5,500 – 6,400 Nm"], ["Pullback", "18,900 kg"], ["Main hoist", "13,500 kg (30,000 lbs)"]] },
+  { "name": "IMS 1000 / 1300", "clientLabel": "Client", "clients": "Minera Nusa Drillindo", "image": "rig-1000", "imageAlt": "IMS 1000 rig",
+    "specs": [["Depth NQ / HQ / PQ", "1,000 / 700 / 200 m"], ["Torque", "9,600 – 24,500 Nm"], ["Pullback", "18,000 kg"], ["Main hoist", "4,082 kg (9,000 lbs)"]] },
+  { "name": "IMS 750", "clientLabel": "Clients", "clients": "Minera Nusa Drillindo, Global Mining Service, Kalimantan Surya Kencana", "image": "rig-750", "imageAlt": "IMS 750 rig",
+    "specs": [["Depth NQ / HQ / PQ", "750 / 500 / 150 m"], ["Torque", "476 – 5,100 Nm"], ["Pullback", "12,400 kg"], ["Main hoist", "5,300 kg (12,000 lbs)"], ["Modularity", "Flyable, each module under 585 kg"]] },
+  { "name": "LF 70", "clientLabel": "Client", "clients": "Major Drilling Indonesia", "image": "rig-lf70", "imageAlt": "LF 70 rig",
+    "specs": [["Depth NQ / HQ / PQ", "1,000 / 460 / 300 m"], ["Torque", "658 – 3,878 Nm"], ["Pullback", "62.9 kN (about 6.4 tons)"], ["Modularity", "Heliportable, 7 modules under 585 kg"]] },
+  { "name": "IMS 350", "clientLabel": "Client", "clients": "Valentis Indonesia", "image": "rig-350", "imageAlt": "IMS 350 rig", "objectPosition": "center 30%",
+    "specs": [["Depth NQ / HQ / PQ", "350 / 200 / 80 m"], ["Torque", "895 – 10,500 N·m"], ["Pullback", "120 kN (about 12,000 kgf)"], ["Main hoist", "50 kN, 0 – 15 m/min"], ["Modularity", "Skid or crawler modular frames"]] },
+  { "name": "DE 880 modification", "clientLabel": "Client", "clients": "Major Drilling Indonesia", "image": "rig-de880", "imageAlt": "DE 880 rig converted to crawler tracks",
+    "specs": [["Scope", "Truck-mounted rig converted to an independent crawler-track unit"], ["Mobility", "Heavy-duty tracks replace the truck chassis"], ["Hydraulics", "Circuits upgraded for track mobility"], ["Structure", "Reinforced for stability in deep drilling"]] }
+]
